@@ -127,6 +127,8 @@ li img {
 
     /* #4 #message distance to next message container*/
     margin-bottom: 8px;
+
+    position: relative;
 }
 
 
@@ -155,9 +157,9 @@ li img {
     background-color: #CDDC39;
     color: black;
     text-transform: uppercase;
-    position: relative;
-    left: 90%;
-    bottom: 30px;
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
 }
 
 /* #4 left align own #messages using #margins */
