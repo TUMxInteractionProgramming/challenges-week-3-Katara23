@@ -137,6 +137,7 @@ li img {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    word-wrap: break-word;
 }
 
 .message h3 em {
