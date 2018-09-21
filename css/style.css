@@ -142,11 +142,14 @@ li img {
 .message h3 em {
     font-size: larger;
     font-style: normal;
+    text-align: right;
+    width: 20%;
 }
 
 .message h3 a {
     /* #3 #chat #link color is primary text */
     color: black;
+    width: 45%;
 }
 
 .message p {
