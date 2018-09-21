@@ -136,6 +136,7 @@ li img {
     font-size: medium;
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 .message h3 em {
